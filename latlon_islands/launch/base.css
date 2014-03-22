@@ -209,8 +209,8 @@ ul.sidebar li a h1,ul.sidebar li a h2,ul.sidebar li a h3,ul.sidebar li a h4,ul.s
 }
 .column table { width:100%;}
 .initial_islands .column {
-	width: 196px;
-	min-width: 195px;
+	width: 165px;
+	min-width: 164px;
 	float:left;
 }
 
@@ -223,7 +223,7 @@ ul.sidebar li a h1,ul.sidebar li a h2,ul.sidebar li a h3,ul.sidebar li a h4,ul.s
 		For clients that support media queries.
 		Nothing fancy.
 -------------------------------------------- */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 545px) {
 
 	a[class="btn"] { display:block!important; margin-bottom:10px!important; background-image:none!important; margin-right:0!important;}
 
